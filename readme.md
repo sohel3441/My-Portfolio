@@ -113,7 +113,7 @@ portfolio-website/
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/sohel3441/My-Portfolio.git
    cd portfolio-website
    ```
 

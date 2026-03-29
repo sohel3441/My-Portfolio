@@ -113,7 +113,7 @@ portfolio-website/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ankitjhagithub21/mern-portfolio.git
+   git clone 
    cd portfolio-website
    ```
 

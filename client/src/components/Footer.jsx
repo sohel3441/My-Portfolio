@@ -1,9 +1,4 @@
-import {
-  Facebook,
-  Instagram,
-  Twitter,
-  Github
-} from "lucide-react";
+import { Facebook, Instagram, Twitter, Github, Linkedin } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -16,35 +11,11 @@ const Footer = () => {
 
       <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
         <li className="ms-3">
-          <a
-            className="text-muted"
-            href="https://www.instagram.com"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Instagram size={24} className="footer-icon" />
+          <a className="text-muted" href="" target="_blank" rel="noreferrer">
+            <Linkedin size={24} className="footer-icon" />
           </a>
         </li>
-        <li className="ms-3">
-          <a
-            className="text-muted"
-            href="https://www.facebook.com"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Facebook size={24} className="footer-icon" />
-          </a>
-        </li>
-        <li className="ms-3">
-          <a
-            className="text-muted"
-            href="https://twitter.com"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Twitter size={24} className="footer-icon" />
-          </a>
-        </li>
+
         <li className="ms-3">
           <a
             className="text-muted"

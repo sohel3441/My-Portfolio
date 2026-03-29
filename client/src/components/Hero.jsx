@@ -6,17 +6,17 @@ const Hero = () => {
 
             <img
                 className="d-block mx-auto mb-4 shadow border"
-                src="https://ankitjha.vercel.app/_next/image?url=%2Fankit.png&w=640&q=75"
+                src="https://res.cloudinary.com/dnxhvsqax/image/upload/v1774775630/My_picture_ue9lke.jpg"
                 alt="Ankit Jha"
                 width={120}
                 style={{ "borderRadius": "50%" }}
 
             />
-            <h1 className="display-5 fw-bold text-body-emphasis">Hello, I am Ankit Jha</h1>
+            <h1 className="display-5 fw-bold text-body-emphasis">Hello, I am Shaikh Sohel</h1>
             <div className="col-lg-6 mx-auto">
 
                 <p className="lead mb-4">
-                    I am a full stack developer and freelancer.
+                    I am a Full Stack Developer.
                 </p>
                 <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
 
